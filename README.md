@@ -1,1 +1,1 @@
-app contact without style, just for learning
+app contact without style
